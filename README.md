@@ -6,8 +6,6 @@ The sample code above serves as a basic example of how to retain an AsyncTask ac
 ```
 Author: Abderrazak LAANAYA 
 ```
-contact me : laanayabdrzak@gmail.com
-
 <a href="https://www.linkedin.com/in/laanayabdrzak">
   <img alt="Follow me on LinkedIn"
        src="https://raw.githubusercontent.com/florent37/DaVinci/master/mobile/src/main/res/drawable-hdpi/linkedin.png" />
