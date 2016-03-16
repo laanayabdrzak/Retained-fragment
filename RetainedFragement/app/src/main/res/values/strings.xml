@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RetainedFragement</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="task_progress_msg">Progress:</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="task_started_msg">Task started!</string>
+    <string name="task_cancelled_msg">Task cancelled!</string>
+    <string name="task_complete_msg">Task complete!</string>
+    <string name="zero_percent">0%</string>
+    <string name="one_hundred_percent">100%</string>
+    <string name="menu_trigger_config_change">Trigger Config Change</string>
+</resources>
